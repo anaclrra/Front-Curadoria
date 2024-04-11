@@ -1,0 +1,28 @@
+// primary
+$primary: #3947C6; // Altera cor primária
+
+// form-control
+$input-bg: #F8F8F8; // Altera cor de fundo dos inputs da classe form-control
+$input-focus-border-color: #444444; // Altera cor de borda dos inputs da classe form-control quando está em foco
+$input-focus-box-shadow: none; // Remove sombra da borda dos inputs em foco da classe form-control
+$input-placeholder-color: #A0A0A0; // Altera cor do placeholder dos inputs da classe form-control
+$input-font-size: 15px; // Altera tamanho da fonte dos inputs da classe form-control  
+
+// form-label
+$form-label-color: black; // Altera cor de texto dos labels da classe form-label
+
+
+// form-select
+$form-select-focus-box-shadow: none; // Remove sombra da borda dos inputs em foco da classe form-select
+
+//form-check
+$form-check-input-focus-box-shadow:none; // Remove sombra da borda dos inputs em foco da classe form-check
+$form-check-label-cursor: pointer;
+
+// navs
+$nav-link-color: dark; // Altera cor do link da classe nav-link
+
+
+@import "../node_modules/bootstrap/scss/bootstrap.scss";
+
+
